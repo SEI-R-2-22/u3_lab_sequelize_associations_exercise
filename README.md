@@ -17,8 +17,8 @@ We'll be practicing associating the provided models. Foreign Keys have already b
 
 The associations are as follows:
 
-- User has many Articles as creator
-- Article belongs to User as creator
+- User has many Articles as creator (look into [aliases](https://generalassembly.zoom.us/j/96826573003?pwd=MXoxMjJWdi9Cd3QwaytpM0drM05xZz09))
+- Article belongs to User as creator (look into [aliases](https://generalassembly.zoom.us/j/96826573003?pwd=MXoxMjJWdi9Cd3QwaytpM0drM05xZz09))
 
 **BONUS**
 - User belongs to many Articles as bookmarks through UserBookmark
